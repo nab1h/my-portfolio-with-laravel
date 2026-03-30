@@ -1,8 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm install:*)",
-      "Bash(npm run:*)"
+      "Bash(composer require:*)",
+      "Bash(php artisan:*)"
     ]
   }
 }
